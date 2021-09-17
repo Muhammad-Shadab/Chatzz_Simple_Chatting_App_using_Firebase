@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755695411916",
+    "firebase_url": "https://chatzz-71255-default-rtdb.firebaseio.com",
+    "project_id": "chatzz-71255",
+    "storage_bucket": "chatzz-71255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755695411916:android:eaf4acf5042204133a5869",
+        "android_client_info": {
+          "package_name": "com.example.chatzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755695411916-9a45uob0n0arvhbqec3mfq16atp49hi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cKCDaASdOFl4bCofyae9iZRNe-vLH60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755695411916-9a45uob0n0arvhbqec3mfq16atp49hi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
